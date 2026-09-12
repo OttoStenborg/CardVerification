@@ -30,7 +30,6 @@ public class Card {
     }
 
 
-
     public String getCvv() {
         return cvv;
     }
